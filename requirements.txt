@@ -1,0 +1,16 @@
+# OmniSolve 3.0 Requirements
+# Core dependencies for the refactored architecture
+
+# HTTP client for API calls
+requests>=2.31.0
+
+# Async file I/O
+aiofiles>=23.2.1
+
+# Optional: Progress bars (uncomment if desired)
+# tqdm>=4.66.0
+
+# Note: Python 3.8+ required for type hints and async features
+
+# Optional system monitoring
+psutil>=5.9.0

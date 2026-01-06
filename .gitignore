@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and runtime output
+Logs/
+Runtime/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Generated project output
+Projects/
+
+# Model artifacts (if regenerated or large)
+Models/
+ 
+# Third Party Applications
+SillyTavern/
