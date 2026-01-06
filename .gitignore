@@ -25,3 +25,9 @@ Models/
  
 # Third Party Applications
 SillyTavern/
+
+Engine/.exe
+Engine/.dll
+Engine/.bin
+Engine/.so
+Engine/*.dylib
